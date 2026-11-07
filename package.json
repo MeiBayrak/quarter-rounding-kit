@@ -1,0 +1,17 @@
+{
+  "name": "quarter-rounding-kit",
+  "version": "0.1.0",
+  "description": "Adjusts a date to the start of a quarter and reports which quarter it is.",
+  "type": "module",
+  "main": "src/index.js",
+  "exports": "./src/index.js",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [],
+  "license": "MIT",
+  "dependencies": {}
+}
