@@ -1,6 +1,6 @@
 {
   "name": "quarter-rounding-kit",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Adjusts a date to the start of a quarter and reports which quarter it is.",
   "type": "module",
   "main": "src/index.js",
